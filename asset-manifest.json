@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edx/static/css/main.4a9a3b17.css",
+    "main.js": "/edx/static/js/main.1ddc5ab3.js",
+    "static/media/rocket.jpg": "/edx/static/media/rocket.15f746854870db024a76.jpg",
+    "static/media/rocket2.jpg": "/edx/static/media/rocket2.c44f854d9474f39d08f8.jpg",
+    "index.html": "/edx/index.html",
+    "main.4a9a3b17.css.map": "/edx/static/css/main.4a9a3b17.css.map",
+    "main.1ddc5ab3.js.map": "/edx/static/js/main.1ddc5ab3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9a3b17.css",
+    "static/js/main.1ddc5ab3.js"
+  ]
+}
